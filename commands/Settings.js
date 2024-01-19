@@ -40,12 +40,12 @@ cmd({
             ];
             let buttonMessage = {
                 image: {
-                    url: 'https://telegra.ph/file/b10172f9cfdbe5f43c43e.jpg',
+                    url: 'https://telegra.ph/file/541880f20966dc9ddb484.jpg',
                 },
 
                 caption: `
 
-*⦁──👑𝙑𝘼𝙅𝙄𝙍𝘼 𝙎𝙀𝙏𝙏𝙄𝙉𝙂 𝙇𝙄𝙎𝙏👑──⦁*
+*⦁──👑DANIDU COMMAND LIST👑──⦁*
 
 1♻️➣ To put Antilink type :
 Eg:- .set ANTILINK:false
@@ -104,8 +104,8 @@ Eg:- .set THUMB_IMAGE:put image url
 19♻️➣ To public/privert  type :
 Eg:- .set WORKTYPE:public/privet
 
-*ᴋɪɴɢ ᴠᴀᴊɪʀᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ*
-*▶ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴡᴍʀ ᴠᴀᴊɪʀᴀ ◀*
+*MR DANIDU WHATSAPP BOT*
+*▶ CREATED BY DANIDU NIRMAL ◀*
 `,
 
                 footer: tlang().footer,
