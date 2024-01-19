@@ -3,4 +3,4 @@
 //ගිහින් වැඩක් බලාගනිම් හුත්තෝ වදයක් නොවි.
 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣
 
-  //✅GENARATED BY VAJIRA✅
+  //✅ GENARATED BY ADHEESHA AMANTHA ✅
