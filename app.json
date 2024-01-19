@@ -1,14 +1,14 @@
 { 
-  "name": "KING-VAJIRA-MD",
+  "name": "KING-DANIDU-MD",
   "description": "A Whatsapp md bot built By Naveed to make experience better",
-  "logo": "https://telegra.ph/file/09ab24679fb3a297a8905.jpg",
+  "logo": "https://telegra.ph/file/541880f20966dc9ddb484.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "King-Two", "KING-MD", "KING","king-Bot","theme bot","multi device","baileys"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "OWNER NAME",
-      "value": "VAJIRA RATHNAYAKA"
+      "value": "DANIDU NIRMAL"
   },
   "ALIVE_MESSAGE": {
     "description": " SET YOUR ALIVE MESSAGE FOR THE BOT",
@@ -16,8 +16,8 @@
     },
   "AUTO_READ_STATUS": {
     "description": "Fill the value true if you want bot view your Statuses./ ඔටො ඉස්ටෙටස් සීන් කරන්න ඔනිනම් true/false දමන්න",
-    "required" :false,
-    "value": "false"
+    "required" :true,
+    "value": "true"
       },
     "HEROKU_API_KEY": {
     "description": "Put HEROKU API KEY/ හෙරෝකු සෙටිංස් වෙත ගොස් හෙරෝකු Api එක මෙතනට දමන්න",
@@ -29,7 +29,7 @@
     },
    "THUMB_IMAGE": {
     "description": "Put Your Image Url for bot./ බොට්ට පින්තුරයක් දැමීමට ඔබෙ පින්තුරෙ url එක දමන්න",
-     "value": "https://telegra.ph/file/09ab24679fb3a297a8905.jpg"
+     "value": "https://telegra.ph/file/541880f20966dc9ddb484.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -52,12 +52,12 @@
     },
   "LEVEL_UP_MESSAGE": {
     "description": "Fill the value true if you want bot send Level up message in chat./ levelup මැසෙජ් එක ඔටො යැවීමට true/false",
-     "required" :false,
-     "value": "false"
+     "required" :true,
+     "value": "true"
     },
       "READ_MESSAGE": {
     "description": "Fill the value true if you want bot to read all messages./ හැම මැසේජ් එකක්ම ඔටෝ සීන් කිරිමට true/false",
-     "required" :false,
+     "required" :true,
      "value": "true"
     },
     "DISABLE_PM": {
@@ -71,7 +71,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot/ තමන්ගෙ නම්බ එක (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "94Xxxxxxxxxx"
+       "value": "94715322008"
   },
    "SESSION_ID": {
     "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to KING-MD Github Repo U can find the Scanner Option"
@@ -95,16 +95,16 @@
   },
       "AUTO_REACTION": {
     "description": "Reacts emoji to all commands./ හැම මැසෙජ් එකකටම ඔටො රියැක්ශන් එකක් වැටීමට true/false",
-     "value": "false",
-     "required": false 
+     "value": "true",
+     "required": true
   },
   "PACK_AUTHER": {
     "description": "PUT STICKER AUTHOR NAME",
-    "value": "vajira"
+    "value": "Danidu"
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
-    "value": "king-vajira-md"
+    "value": "Mr-Danidu-md"
   },
   "heroku": {
     "description": "Weather it is on heroku or not",
